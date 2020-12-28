@@ -1,16 +1,13 @@
 import React from "react";
-import Search from "./components/Search/Search";
 import Jumbotron from "./components/Jumbotron/Jumbotron";
-import TableHeader from "./components/TableHeader/TableHeader";
-import Table from "./components/Table/Table";
+import Container from "./components/Container/Container";
+
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <Jumbotron />
-      <Search />
-      <Table />
-      <TableHeader />
+      <Container />
     </div>
   );
 }
