@@ -3,10 +3,10 @@ import React from "react";
 function TableHeader(props) {
   return (
       <tr>
-        <th className="hover" onClick={props.sortNames}>Name</th>
         <th>Image</th>
-        <th>Email</th>
+        <th className="hover" onClick={props.sortNames}>Name</th>
         <th>Phone</th>
+        <th>Email</th>
       </tr>
   );
 }
