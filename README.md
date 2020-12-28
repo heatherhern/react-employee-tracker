@@ -11,15 +11,15 @@ This employee tracker & contact list will generate a list of employees from the 
 ## Author(s)
 Heather Hern
 
-### Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -27,6 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Questions
+## Questions
 * Github: [heatherhern](http://github.com/heatherhern)
 * Submit Questions to [heathernewlin1@gmail.com](heathernewlin1@gmail.com)
