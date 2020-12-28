@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Search from "../Search/Search";
 import Table from "../Table/Table";
 import API from "../../utils/api.js";
+import "./container.css";
 
 class Container extends Component {
     state = {

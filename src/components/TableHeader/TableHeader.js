@@ -1,8 +1,9 @@
 import React from "react";
+import "./tableheader.css";
 
 function TableHeader(props) {
   return (
-      <tr>
+      <tr class="headerrow">
         <th>Image</th>
         <th className="hover" onClick={props.sortNames}>Name</th>
         <th>Phone</th>

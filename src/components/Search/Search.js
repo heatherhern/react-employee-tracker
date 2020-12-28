@@ -6,7 +6,7 @@ function Search(props) {
     <input
       type="text"
       onChange={props.handleInputChange}
-      placeholder="Type Here"
+      placeholder="Search Employees"
     ></input>
   );
 }
