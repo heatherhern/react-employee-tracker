@@ -3,7 +3,7 @@
 ![App Screenshot](/public/img/appscreenshot.png)  
 
 ## View Deployed Application
-https://heatherhern.github.io/react-employee-tracker/
+https://heather-user-directory.herokuapp.com/
 
 ## Badges
 ![Badge](https://img.shields.io/badge/license-MIT-<green>) 
